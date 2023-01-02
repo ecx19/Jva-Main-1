@@ -1,0 +1,13 @@
+import javax.swing.JOptionPane;
+
+public static ("Enter Your Name") {
+    JOptionPane.class java(String[] args) {
+
+        JOptionPane.name = JOptionPane.showInputDialog(null, "Enter Your Name");
+        JOptionPane.name1 = JOptionPane.showInputDialog(null, "yes");
+        JOptionPane.name2 = JOptionPane.showInputDialog(null, "no");
+        JOptionPane.showMessageDialog(null,"hi ",name,0);
+        JOptionPane.showOptionDialog(null, name1, name2, 2, 1, null, args, name);
+        JOptionPane.showConfirmDialog(null, "aus", name, 0);
+    }
+}
