@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public static ("Enter Your Name") {
+public static void main() {
     JOptionPane.class java(String[] args) {
 
         JOptionPane.name = JOptionPane.showInputDialog(null, "Enter Your Name");
